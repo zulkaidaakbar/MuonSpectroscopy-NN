@@ -1,2 +1,2 @@
 # MuonSpectroscopy-NN
-Neural Netwoek
+Neural Network
